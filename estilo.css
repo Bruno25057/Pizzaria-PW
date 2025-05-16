@@ -15,7 +15,7 @@ body{
     height: 200px;
     transition: all 0.75s;
     cursor: pointer;
-    border: 10px solid transparent;
+    border: 7px solid transparent;
 }
 .imagem:hover{
     -webkit-filter: drop-shadow(5px 25px 5px black);
