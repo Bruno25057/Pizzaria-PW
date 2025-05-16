@@ -15,14 +15,14 @@ body{
     height: 200px;
     transition: all 0.75s;
     cursor: pointer;
-    border: 7px solid transparent;
+    border: 5px solid transparent;
 }
 .imagem:hover{
     -webkit-filter: drop-shadow(5px 25px 5px black);
     filter: drop-shadow(5px 25px 5px black);
     -webkit-transform: scale(1.25);
     transform: scale(1.25);
-    border: 10px solid rgb(255, 43, 43);
+    border: 5px solid rgb(255, 43, 43);
     border-radius: 50%;
 }
 #titulo{
