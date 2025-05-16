@@ -22,8 +22,8 @@ body{
     filter: drop-shadow(5px 25px 5px black);
     -webkit-transform: scale(1.25);
     transform: scale(1.25);
-    border: 10px solid rgb(255, 43, 43)
-    border-radius: 50%
+    border: 10px solid rgb(255, 43, 43);
+    border-radius: 50%;
 }
 #titulo{
     font-size: 25px;
